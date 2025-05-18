@@ -2,7 +2,6 @@
 title: 🗓️ Generating Realistic Dialogues in OR using Large Language Models 
 date: 2025-02-07 15:00:00 +/-0800
 categories: [Publication, Programming]
-tags: [nlp, synthetic data, or]
 ---
 
 Operating Rooms (ORs) are most comlicated and sensitive environments in any medical center. Providing best possible healthcare service requires close team collabration of medical personel, including physicians and assistants.

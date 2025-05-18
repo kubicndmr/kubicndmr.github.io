@@ -2,7 +2,6 @@
 title: 🎥 Transformer
 date: 2023-04-12 14:12:43 +/-0800
 categories: [YouTube]
-tags: [transformer]
 ---
 
 On my turkish YouTube channel `k_c_d`, I visited Transformers in detail.
