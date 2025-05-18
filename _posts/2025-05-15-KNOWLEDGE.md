@@ -2,6 +2,7 @@
 title: 🎥 Knowledge Distillation
 date: 2024-05-13 14:12:43 +/-0800
 categories: [YouTube]
+tags: [knowledge distillation]
 ---
 
 On my turkish YouTube channel `k_c_d`, I visited knowledge distillation in detail.

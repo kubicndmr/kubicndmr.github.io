@@ -13,7 +13,7 @@
 
 - type: bluesky
   icon: 'fa-brands fa-bluesky'
-  url: ''
+  url: 'https://bsky.app/profile/kubicwerke.bsky.social'
 
 # Uncomment and complete the url below to enable more contact options
 # - type: rss
